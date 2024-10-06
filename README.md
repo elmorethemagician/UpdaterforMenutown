@@ -1,0 +1,2 @@
+# UpdaterforMenutown
+Updater for Menutown.
